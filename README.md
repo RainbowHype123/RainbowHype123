@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm RainbowHype, a small-time game developer usually working in Clickteam Fusion 2.5. I like to dabble in some other languages every now and then.
+
 <!--
 **RainbowHype123/RainbowHype123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
